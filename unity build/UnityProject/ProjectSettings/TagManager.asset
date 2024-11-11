@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Target
+  - Suspect1
+  - Suspect2
+  - Suspect3
+  - AccessCompletionText
+  - EvidenceCompletionText
+  - TrafficTypeSlider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Taskbar
+  - Water
+  - UI
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1192623519
+    locked: 0
+  - name: Windows
+    uniqueID: 1380798411
+    locked: 0
+  - name: Taskbar
+    uniqueID: 2601962163
+    locked: 0
